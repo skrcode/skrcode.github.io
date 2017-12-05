@@ -1,6 +1,17 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: About
+  url: /portfolio/
+  excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
+
+- title: Blog
+  url: http://mademistakes.com  
+
+- title: Programming Contests
+  url: http://mademistakes.com
+
+- title: Honors
+  url: http://mademistakes.com 
+
+- title: Projects
+  url: http://mademistakes.com 

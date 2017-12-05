@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title: "My Site"
-description: "This is a description of my awesome site."
+title: "Suraj Rajan"
+description: "Competitive Programmer, Natural Language Processing Enthusiast"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
@@ -26,13 +26,13 @@ gems:
 
 # Site owner
 owner:
-  name:
-  email:
+  name: Suraj Rajan
+  email: surajkrajan95@gmail.com
   twitter:
   google:
     ad-client:
     ad-slot:
-  bio:
+  bio: Competitive Programmer, Natural Language Processing Enthusiast
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname:
 
