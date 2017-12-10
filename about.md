@@ -4,16 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Insert about me
+Software Engineer at Myntra, Bangalore
 {: .text-justify}
 
 ### More Information
 Insert more info about me
 
-Courses:
 
-
-Books that I read:
 
 
 
