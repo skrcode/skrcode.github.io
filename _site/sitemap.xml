@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/https:/www.kaggle.com/skrcode/0-29-public-lb-score-beginner-nlp-tutorial</loc>
+<lastmod>2017-12-11T00:00:00+05:30</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/https:/nitkcccc.wordpress.com/2014/03/20/dynamic-programming-tutorial-level-1-easy-medium-part-22/</loc>
 <lastmod>2014-03-20T00:00:00+05:30</lastmod>
 </url>

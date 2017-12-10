@@ -18,7 +18,3 @@ Books that I read:
 
 
 {: .text-justify}
-
-
-### Contact me
-[surajkrajan95@gmail.com](mailto:surajkrajan95@gmail.com)
