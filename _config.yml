@@ -11,6 +11,9 @@ description: Software Engineer, Competitive Programmer, NLP enthusiast
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://qph.ec.quoracdn.net/main-thumb-35072637-200-tccrofbmobabyhlhubmnbtixeexqpzii.jpeg
 
+# Include pages
+include: ["_pages"]
+
 #
 # Flags below are optional
 #
