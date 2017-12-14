@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 Software Engineer at Myntra, Bangalore
+ACM ICPC Regional Finalist
 {: .text-justify}
 
 ### Competitive Programming
