@@ -6,6 +6,9 @@ permalink: /about/
 
 Software Engineer at Myntra, Bangalore ,
 ACM ICPC Regional Finalist
+
+### Education
+B.Tech (2012-16) - Computer Science and Engineering, NIT Karnataka, India
 {: .text-justify}
 
 ### Competitive Programming
