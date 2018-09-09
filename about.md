@@ -4,21 +4,28 @@ title: About
 permalink: /about/
 ---
 
-Software Engineer at Myntra, Bangalore ,
-ACM ICPC Regional Finalist
-
-### Education
-B.Tech (2012-16) - Computer Science and Engineering, NIT Karnataka, India
+* Software Engineer at [Myntra](http://wwww.myntra.com), Bangalore
+* Contributor to [spaCy](https://spacy.io/) and [Apache OpenNLP](https://opennlp.apache.org/)
+* ACM ICPC Regional Finalist
+* B.Tech (2012-16) - Computer Science and Engineering, [NIT Karnataka, India](http://www.nitk.ac.in)
 {: .text-justify}
+
+### spaCy
+* [Enhancement for Vectors for faster initialising of word vectors(fasttext)](https://github.com/explosion/spaCy/pull/2170)
+* [Implement Fast-Text vectors with subword features](https://github.com/explosion/spaCy/pull/2247)
+* [Implement Dependency Tree Pattern Matcher](https://github.com/explosion/spaCy/commit/356af7b0a18fdef2a8761c4b99983fa9445ebe0c)
+
+### Apache OpenNLP
+* [Added Eval support to Detokenizer](https://github.com/apache/opennlp/pull/308)
 
 ### Competitive Programming
 
 My Competitive Programming profiles with solutions to accepted problems :<br>
-Codechef : <a href='/about/codechef'>skrcode</a> <br>
-Codeforces : <a href='/about/codeforces'>skrcode</a> <br>
-SPOJ : <a href='/about/spoj'>skrcode</a> <br>
-Timus : <a href='http://acm.timus.ru/author.aspx?id=167645'>skrcode</a> (_solutions hidden_) <br> 
-HackerRank : <a href='https://www.hackerrank.com/skrcode'>skrcode</a> (_solutions hidden_) <br>
+* Codechef : <a href='/about/codechef'>skrcode</a> <br>
+* Codeforces : <a href='/about/codeforces'>skrcode</a> <br>
+* SPOJ : <a href='/about/spoj'>skrcode</a> <br>
+* Timus : <a href='http://acm.timus.ru/author.aspx?id=167645'>skrcode</a> (_solutions hidden_) <br> 
+* HackerRank : <a href='https://www.hackerrank.com/skrcode'>skrcode</a> (_solutions hidden_) <br>
 
 
 
