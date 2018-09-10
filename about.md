@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-* Software Engineer at [Myntra](http://www.myntra.com), Bangalore
+* Senior Software Engineer at [Myntra](http://www.myntra.com), Bangalore
 * Contributor to [spaCy](https://spacy.io/) and [Apache OpenNLP](https://opennlp.apache.org/)
 * ACM ICPC Regional Finalist
 * B.Tech (2012-16) - Computer Science and Engineering, [NIT Karnataka, India](http://www.nitk.ac.in)
