@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kaggle Spooky Author Identification - 0.29, Highest Public LB score for a published kernel, Beginner NLP Tutorial
+title: Kaggle Spooky Author Identification - 0.29, Highest Public LB score for a published kernel
 permalink : https://www.kaggle.com/skrcode/0-29-public-lb-score-beginner-nlp-tutorial
 categories: [blogs,projects]
 ---
