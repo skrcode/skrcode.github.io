@@ -4,6 +4,8 @@ title: Quora Chrome Extension
 permalink : https://github.com/skrcode/Chrome-Extension
 categories: [projects]
 ---
+
+Hobby Project - 
 Quora Chrome Extension which classifies Quora answers into genres such as information,stories and world affairs for improved reading experience
 
 The test data included contains data from the facebook page "Best-Of-Quora"
