@@ -2,6 +2,7 @@
 layout: post
 title: Recursion using ReactJS Components
 permalink : https://medium.com/@suraj.rajan/recursion-using-reactjs-components-3c871f99fb2f
+categories: [blogs]
 ---
 
 A tutorial on how to use recursion in React components. Recursive react

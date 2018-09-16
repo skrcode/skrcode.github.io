@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Image Denoising using Edge Patch Based Dictionaries and BIRCH unsupervised clustering algorithm – Suraj Rajan – Software Engineer, Algorithmic Programmer, NLP enthusiast</title>
+
+        <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="A technique to speed-up a nonlocal means (NLM) filter is implemented. In the original NLM filter, most of its computational time is spent on finding distances for all the patches in the search window. Here, a dictionary is built in which patches with similar photometric structures are clustered together. Dictionary is built only once with high resolution images belonging to different scenes. Since the dictionary is well organized in terms of indexing its entries, it is used to search similar patches very quickly for efficient NLM denoising.A substantial reduction in computational cost compared with the original NLM method, especially when the search window of NLM is large, without much affecting the PSNR. Second, it can be seen that by building a dictionary for edge patches as opposed to intensity patches, it is possible to reduce the dictionary size; thus, further improving the computational speed and memory requirement. The implemented method preclassifies similar patches with the same distance measure as used by NLM method. The implemented algorithm is shown to outperform other prefiltering based fast NLM algorithms computationally as well as qualitatively.
+" />
+    <meta property="og:description" content="A technique to speed-up a nonlocal means (NLM) filter is implemented. In the original NLM filter, most of its computational time is spent on finding distances for all the patches in the search window. Here, a dictionary is built in which patches with similar photometric structures are clustered together. Dictionary is built only once with high resolution images belonging to different scenes. Since the dictionary is well organized in terms of indexing its entries, it is used to search similar patches very quickly for efficient NLM denoising.A substantial reduction in computational cost compared with the original NLM method, especially when the search window of NLM is large, without much affecting the PSNR. Second, it can be seen that by building a dictionary for edge patches as opposed to intensity patches, it is possible to reduce the dictionary size; thus, further improving the computational speed and memory requirement. The implemented method preclassifies similar patches with the same distance measure as used by NLM method. The implemented algorithm is shown to outperform other prefiltering based fast NLM algorithms computationally as well as qualitatively.
+" />
+    
+    <meta name="author" content="Suraj Rajan" />
+
+    
+    <meta property="og:title" content="Image Denoising using Edge Patch Based Dictionaries and BIRCH unsupervised clustering algorithm" />
+    <meta property="twitter:title" content="Image Denoising using Edge Patch Based Dictionaries and BIRCH unsupervised clustering algorithm" />
+    
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="stylesheet" type="text/css" href="/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Suraj Rajan - Software Engineer, Algorithmic Programmer, NLP enthusiast" href="/feed.xml" />
+
+    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+  </head>
+
+  <body>
+    <div class="wrapper-masthead">
+      <div class="container">
+        <header class="masthead clearfix">
+          <a href="/" class="site-avatar"><img src="https://qph.fs.quoracdn.net/main-thumb-35072637-200-tccrofbmobabyhlhubmnbtixeexqpzii.jpeg" /></a>
+
+          <div class="site-info">
+            <h1 class="site-name"><a href="/">Suraj Rajan</a></h1>
+            <p class="site-description">Software Engineer, Algorithmic Programmer, NLP enthusiast</p>
+          </div>
+
+          <nav>
+            <a href="/about">About</a>
+            <a href="/">Blog</a>
+            <a href="/projects">Projects</a>
+            <!-- <a href="/pdf/resume.pdf" target="_blank">CV</a> -->
+          </nav>
+        </header>
+      </div>
+    </div>
+
+    <div id="main" role="main" class="container">
+      <article class="post">
+<script type="text/javascript"
+        src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+  <script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    TeX: {
+      equationNumbers: {
+        autoNumber: "AMS"
+      }
+    },
+    tex2jax: {
+      inlineMath: [ ['$','$'] ],
+      displayMath: [ ['$$','$$'] ],
+      processEscapes: true,
+    },
+    "HTML-CSS": {
+    linebreaks: { automatic: true, width: "container" }          
+  }
+  });
+</script>
+  <p></p>
+  <h1>Image Denoising using Edge Patch Based Dictionaries and BIRCH unsupervised clustering algorithm</h1>
+
+  <div class="entry">
+    <p>A technique to speed-up a nonlocal means (NLM) filter is implemented. In the original NLM filter, most of its computational time is spent on finding distances for all the patches in the search window. Here, a dictionary is built in which patches with similar photometric structures are clustered together. Dictionary is built only once with high resolution images belonging to different scenes. Since the dictionary is well organized in terms of indexing its entries, it is used to search similar patches very quickly for efficient NLM denoising.A substantial reduction in computational cost compared with the original NLM method, especially when the search window of NLM is large, without much affecting the PSNR. Second, it can be seen that by building a dictionary for edge patches as opposed to intensity patches, it is possible to reduce the dictionary size; thus, further improving the computational speed and memory requirement. The implemented method preclassifies similar patches with the same distance measure as used by NLM method. The implemented algorithm is shown to outperform other prefiltering based fast NLM algorithms computationally as well as qualitatively.</p>
+
+  </div>
+
+  <div class="date">
+    Written on April 26, 2016
+  </div>
+</article>
+
+    </div>
+
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+          
+<a href="mailto:surajkrajan95@gmail.com"><i class="svg-icon email"></i></a>
+
+
+<a href="https://github.com/skrcode"><i class="svg-icon github"></i></a>
+
+<a href="https://www.linkedin.com/in/suraj-rajan-4699b183/"><i class="svg-icon linkedin"></i></a>
+
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+  </body>
+</html>

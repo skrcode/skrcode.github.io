@@ -2,6 +2,7 @@
 layout: post
 title: Kaggle Spooky Author Identification - 0.29, Highest Public LB score for a published kernel, Beginner NLP Tutorial
 permalink : https://www.kaggle.com/skrcode/0-29-public-lb-score-beginner-nlp-tutorial
+categories: [blogs,projects]
 ---
 
 My published kernel in the Kaggle Contest, Spooky Author Identification. Highest Public LB score - 0.29 (Top 50) for a published kernel in the contest. Uses Simple Feature Engineering like Punctuation,Stop Words,Glove Sentence vectors. 
