@@ -13,7 +13,7 @@ permalink: /about/
 ### spaCy
 * [Enhancement for Vectors for faster initialising of word vectors(fasttext)](https://github.com/explosion/spaCy/pull/2170)
 * [Implement Fast-Text vectors with subword features](https://github.com/explosion/spaCy/pull/2247)
-* [Implement Dependency Tree Pattern Matcher](https://github.com/explosion/spaCy/pull/2732)
+* [Implement Dependency Tree Pattern Matcher](https://github.com/explosion/spaCy/pulls?q=is%3Apr+author%3Askrcode+is%3Aclosed+label%3A%22feat+%2F+matcher%22)
 
 ### Apache OpenNLP
 * [Added Eval support to Detokenizer](https://github.com/apache/opennlp/pull/308)
