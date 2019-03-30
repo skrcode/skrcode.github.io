@@ -27,6 +27,9 @@ My Competitive Algorithmic Programming profiles with solutions to accepted probl
 * Timus : <a href='http://acm.timus.ru/author.aspx?id=167645'>skrcode</a> (_solutions hidden_) <br> 
 * HackerRank : <a href='https://www.hackerrank.com/skrcode'>skrcode</a> (_solutions hidden_) <br>
 
+### Interesting Algorithmic Problems and Techniques
+
+I try to maintain a repository of interesting algorithmic techniques not commonly found on the internet [here](https://github.com/skrcode/Interesting-Algorithms). Please create an issue or raise a PR if you have any thoughts or suggestions about this. Thanks !
 
 
 
